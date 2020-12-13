@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'OSINT: A Journey in Stealth'
+date: 2020-11-30
 category: 'event'
 ---
 
