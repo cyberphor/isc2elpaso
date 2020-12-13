@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Follow Us on Social Media'
-date: 2020-11-13
-category: 'post'
-permalink: 'follow-us-on-social-media'
+category: post
 ---
 
 We're getting social! 
