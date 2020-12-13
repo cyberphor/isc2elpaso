@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Free ISC(2) Exam Action Plan'
-date: 2020-10-13
 category: post
-permalink: 'free-isc2-exam-action-plan'
 ---
 
 Get your FREE (ISC)2 Exam Action Plan [here](https://lnkd.in/ebW3Cui). 
