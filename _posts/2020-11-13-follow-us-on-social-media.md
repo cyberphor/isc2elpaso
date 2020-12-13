@@ -5,7 +5,8 @@ date: 2020-11-13
 category: 'post'
 ---
 
-We're getting social. Follow us today on the following platforms:
+We're getting social. Follow us today on the following platforms...
+
 * [Twitter](https://lnkd.in/dJyx8xQ)
 * [Facebook](https://lnkd.in/eS-Fxen)
 * [Slack](https://lnkd.in/evC3PGH)
