@@ -9,12 +9,10 @@ permalink: 'contact'
   <label>
     <input type="text" name="_replyto" placeholder="Your email address">
   </label>
-  <br>
-  <br>  
+  <p>
   <label>
-    <textarea rows="10" cols="60" name="message" placeholder="Your message"></textarea>
+    <textarea rows="10" cols="80" name="message" placeholder="Your message"></textarea>
   </label>
-  <br>
-  <br>
-  <button type="submit">Send</button>
+  <p>
+  <button type="submit">Submit</button>
 </form>
