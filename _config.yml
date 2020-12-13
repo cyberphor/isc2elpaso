@@ -10,6 +10,7 @@ header_pages:
   - _navigation/contact.md
   - _navigation/about.md
 theme: minima
+permalink: /:title:output_ext
 minima:
   social_links:
     linkedin: isc2elpaso
