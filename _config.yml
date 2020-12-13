@@ -9,7 +9,7 @@ header_pages:
 - _navigation/blog.md
 - _navigation/contact.md
 - _navigation/about.md
-permalink: {{ site.baseurl }}/:categories/:title:output_ext
+permalink: isc2elpaso/:categories/:title:output_ext
 theme: minima
 minima:
   social_links:
