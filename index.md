@@ -2,5 +2,6 @@
 layout: default
 ---
 
-# Hello World!
-We are an ISC(2) chaptering organization with goals of growing the number ISC(2) certification memberships within the West Texas area.
+{% for post in site.posts %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% endfor %}
