@@ -7,14 +7,12 @@ permalink: 'contact'
 ## Contact Us
 <form action="https://formspree.io/f/mnqogogl" method="POST">
   <label>
-    Your email address: <br>
-    <input type="text" name="_replyto">
+    <input type="text" name="_replyto" placeholder="Your email address">
   </label>
   <br>
   
   <label>
-    Your message: <br>
-    <textarea rows="10 cols="100" name="message"></textarea>
+    <textarea rows="10" cols="100" name="message" placeholder="Your message"></textarea>
   </label>
   <br>
   
