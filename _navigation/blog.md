@@ -8,7 +8,9 @@ permalink: 'blog'
 <ul class="posts-list">
   {% for post in site.posts %}
     {% if post.category == 'post' %}
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> {{ post.date | date: '%B %d, %Y' }}
+      <li>
+        {{ post.date | date: '%B %d, %Y' }} | <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
     {% endif %}  
   {% endfor %}
 </ul>
