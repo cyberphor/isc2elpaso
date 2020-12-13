@@ -1,1 +1,14 @@
+title: 'ISC(2) El Paso Chapter'
+include:
+  - _assets
+  - _navigation
+header_pages:
+- _navigation/about.md
+- _navigation/contact.md
+- _navigation/blog.md
+- _navigation/events.md
 theme: jekyll-theme-cayman
+minima:
+  social_links:
+    linkedin: isc2elpaso
+    twitter: isc2elpaso
