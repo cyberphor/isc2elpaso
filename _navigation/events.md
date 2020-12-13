@@ -10,9 +10,7 @@ permalink: 'events'
   {% for post in sorted_posts %}
     {% if post.category == 'event' %}
       <li>
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
+        {{ post.date | date: '%B %d, %Y' }} | <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </li>
     {% endif %}
   {% endfor %}
