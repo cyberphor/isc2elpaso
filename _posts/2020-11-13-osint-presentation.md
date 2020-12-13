@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'OSINT: A Journey in Stealth'
+category: 'event'
 ---
 
 ISC2 El Paso Chapter will be hosting top-notched web app pentester and technical writer Chrissa Constantine CISSP, CEH, GIAC, GWAPT via zoom web conferencing. Ms. Constantine will present Open Source Intelligence (OSINT) - A Journey in Stealth.
