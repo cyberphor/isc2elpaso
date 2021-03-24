@@ -7,8 +7,7 @@ include:
 header_pages:
   - _navigation/events.md
   - _navigation/blog.md
-  - _navigation/contact.md
-  - _navigation/contact2.md
+  - _navigation/join.md
   - _navigation/about.md
 theme: minima
 permalink: /:title:output_ext
