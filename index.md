@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![El-Paso-Logo.jpg]({{ site.url }}{{ site.baseurl }}/_assets/El-Paso-Logo.jpg)
-
 <ul class="notes-list">
   {% for post in site.posts %}
     <li>
