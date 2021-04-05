@@ -14,7 +14,7 @@ permalink: 'Join'
 <div id="mc_embed_signup">
 <form action="https://isc2elpaso-chapter.us1.list-manage.com/subscribe/post?u=5ac41cf0e3546cfb096662988&amp;id=facdaa48b1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Join the (ISC)2 El Paso Chapter!</h2>
+	<h2>Join the (ISC)2 El Paso Chapter today!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
